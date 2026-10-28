@@ -1,4 +1,4 @@
-# ai297 — AI code agent and code editor (`npm i -g @ai297.com/ai297-ai-code-agent-editor`)
+# ai297 — AI code agent and code editor (`npm i -g "@ai297.com/ai297-ai-code-agent-editor"`)
 
 [![npm version](https://img.shields.io/npm/v/@ai297.com/ai297-ai-code-agent-editor?color=2563eb)](https://www.npmjs.com/package/@ai297.com/ai297-ai-code-agent-editor)
 [![npm downloads](https://img.shields.io/npm/dm/@ai297.com/ai297-ai-code-agent-editor?color=2563eb)](https://www.npmjs.com/package/@ai297.com/ai297-ai-code-agent-editor)
@@ -11,7 +11,7 @@ an integrated terminal with Claude Code and Codex, a Node.js/TypeScript debugger
 optional cloud sync with the browser IDE at [ai297.com](https://ai297.com).
 
 ```sh
-npm i -g @ai297.com/ai297-ai-code-agent-editor
+npm i -g "@ai297.com/ai297-ai-code-agent-editor"
 cd my-project
 ai297
 ```
@@ -21,7 +21,7 @@ ai297
 ## Install
 
 ```sh
-npm i -g @ai297.com/ai297-ai-code-agent-editor
+npm i -g "@ai297.com/ai297-ai-code-agent-editor"
 ```
 
 - Requires **Node.js 20 or later**. Works on **Windows 10/11 (x64), macOS (Apple Silicon and Intel) and Linux (x64)**.
@@ -72,7 +72,7 @@ ai297 --reinstall
 ## Uninstall
 
 ```sh
-npm rm -g @ai297.com/ai297-ai-code-agent-editor
+npm rm -g "@ai297.com/ai297-ai-code-agent-editor"
 ```
 
 ## FAQ
