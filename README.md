@@ -1,7 +1,7 @@
-# ai297 — AI code agent and code editor (`npm i -g ai297-ai-code-agent-editor`)
+# ai297 — AI code agent and code editor (`npm i -g @ai297.com/ai297-ai-code-agent-editor`)
 
-[![npm version](https://img.shields.io/npm/v/ai297-ai-code-agent-editor?color=2563eb)](https://www.npmjs.com/package/ai297-ai-code-agent-editor)
-[![npm downloads](https://img.shields.io/npm/dm/ai297-ai-code-agent-editor?color=2563eb)](https://www.npmjs.com/package/ai297-ai-code-agent-editor)
+[![npm version](https://img.shields.io/npm/v/@ai297.com/ai297-ai-code-agent-editor?color=2563eb)](https://www.npmjs.com/package/@ai297.com/ai297-ai-code-agent-editor)
+[![npm downloads](https://img.shields.io/npm/dm/@ai297.com/ai297-ai-code-agent-editor?color=2563eb)](https://www.npmjs.com/package/@ai297.com/ai297-ai-code-agent-editor)
 [![platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-2563eb)](https://ai297.com/download)
 
 **ai297 is a free AI code agent and VS Code-style code editor that knows your project.** Install it from npm,
@@ -11,7 +11,7 @@ an integrated terminal with Claude Code and Codex, a Node.js/TypeScript debugger
 optional cloud sync with the browser IDE at [ai297.com](https://ai297.com).
 
 ```sh
-npm i -g ai297-ai-code-agent-editor
+npm i -g @ai297.com/ai297-ai-code-agent-editor
 cd my-project
 ai297
 ```
@@ -21,7 +21,7 @@ ai297
 ## Install
 
 ```sh
-npm i -g ai297-ai-code-agent-editor
+npm i -g @ai297.com/ai297-ai-code-agent-editor
 ```
 
 - Requires **Node.js 20 or later**. Works on **Windows 10/11 (x64), macOS (Apple Silicon and Intel) and Linux (x64)**.
@@ -42,7 +42,7 @@ ai297 --version
 ai297 --help
 ```
 
-`ai297-ai-code-agent-editor` and `ai-code-editor` work as the same command, and you can try it without installing: `npx ai297-ai-code-agent-editor`. The command starts the editor and gives your terminal back, like VS Code's `code`.
+`ai-code-editor` works as the same command too. The command starts the editor and gives your terminal back, like VS Code's `code`.
 While ai297 is running, another `ai297 <folder>` opens that folder in a new window.
 
 ## Features
@@ -72,7 +72,7 @@ ai297 --reinstall
 ## Uninstall
 
 ```sh
-npm rm -g ai297-ai-code-agent-editor
+npm rm -g @ai297.com/ai297-ai-code-agent-editor
 ```
 
 ## FAQ

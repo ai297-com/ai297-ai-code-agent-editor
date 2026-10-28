@@ -1,7 +1,7 @@
 {
-  "name": "ai297-ai-code-agent-editor",
+  "name": "@ai297.com/ai297-ai-code-agent-editor",
   "version": "0.4.1",
-  "description": "ai297: free AI code agent and editor. npm i -g ai297-ai-code-agent-editor, then type ai297 in any folder. VS Code-style desktop editor with project-aware AI chat, diff-reviewed AI agent, Ctrl+K edits, Claude Code and Codex terminal, debugger and cloud sync.",
+  "description": "ai297: free AI code agent and editor. npm i -g @ai297.com/ai297-ai-code-agent-editor, then type ai297 in any folder. VS Code-style desktop editor with project-aware AI chat, diff-reviewed AI agent, Ctrl+K edits, Claude Code and Codex terminal, debugger and cloud sync.",
   "keywords": [
     "ai297",
     "ai-code-agent",
@@ -58,5 +58,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ai297-com/ai297-ai-code-agent-editor.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
